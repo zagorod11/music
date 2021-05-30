@@ -1,0 +1,249 @@
+.drumpad{
+	background-image: url(../img/drumpad.png);
+	height: 600px;
+	width: 700px;
+	float: bottom;
+	margin-left: 200px;
+	padding-top: 60px;
+}
+.butt{
+	
+
+
+
+
+}
+.drum1 {
+background-image: url(../img/drum/drum4r.png);
+height:101px ;
+width:102px ;
+margin-left: 60px;
+margin-top: 26px;
+}
+.drum2 {
+background-image: url(../img/drum/drum4r.png);
+height:101px;
+width:102px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum3{
+background-image: url(../img/drum/drum4r.png);
+height:101px;
+width:102px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum4{
+background-image: url(../img/drum/drum4r.png);
+height:101px;
+width:102px;
+margin-left: 374px;
+margin-top: -101px;	
+}
+.drum1:hover {
+background-image: url(../img/drum/drum4rOn.png);
+height:102px ;
+width:103px ;
+margin-left: 60px;
+margin-top: 26px;
+}
+.drum2:hover {
+background-image: url(../img/drum/drum4rOn.png);
+height:102px;
+width:103px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum3:hover {
+background-image: url(../img/drum/drum4rOn.png);
+height:102px;
+width:103px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum4:hover {
+background-image: url(../img/drum/drum4rOn.png);
+height:102px;
+width:103px;
+margin-left: 374px;
+margin-top: -101px;	
+}
+
+
+
+.drum5 {
+background-image: url(../img/drum/drum3r.png);
+height:101px ;
+width:102px ;
+margin-left: 60px;
+margin-top: 3px;
+}
+.drum6 {
+background-image: url(../img/drum/drum3r.png);
+height:101px;
+width:102px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum7{
+background-image: url(../img/drum/drum3r.png);
+height:101px;
+width:102px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum8{
+background-image: url(../img/drum/drum3r.png);
+height:101px;
+width:102px;
+margin-left: 374px;
+margin-top: -101px;	
+}
+.drum5:hover {
+background-image: url(../img/drum/drum3rOn.png);
+height:102px ;
+width:103px ;
+margin-left: 60px;
+margin-top: 3px;
+}
+.drum6:hover {
+background-image: url(../img/drum/drum3rOn.png);
+height:102px;
+width:103px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum7:hover {
+background-image: url(../img/drum/drum3rOn.png);
+height:102px;
+width:103px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum8:hover {
+background-image: url(../img/drum/drum3rOn.png);
+height:102px;
+width:103px;
+margin-left: 374px;
+margin-top: -101px;	
+}
+
+
+
+
+.drum9 {
+background-image: url(../img/drum/drum2r.png);
+height:101px ;
+width:102px ;
+margin-left: 60px;
+margin-top: 3px;
+}
+.drum10 {
+background-image: url(../img/drum/drum2r.png);
+height:101px;
+width:102px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum11{
+background-image: url(../img/drum/drum2r.png);
+height:101px;
+width:102px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum12{
+background-image: url(../img/drum/drum2r.png);
+height:101px;
+width:102px;
+margin-left: 374px;
+margin-top: -101px;	
+}
+.drum9:hover {
+background-image: url(../img/drum/drum2rOn.png);
+height:102px ;
+width:103px ;
+margin-left: 60px;
+margin-top: 3px;
+}
+.drum10:hover {
+background-image: url(../img/drum/drum2rOn.png);
+height:102px;
+width:103px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum11:hover {
+background-image: url(../img/drum/drum2rOn.png);
+height:102px;
+width:103px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum12:hover {
+background-image: url(../img/drum/drum2rOn.png);
+height:102px;
+width:103px;
+margin-left: 374px;
+margin-top: -101px;	
+}
+
+
+
+.drum13 {
+background-image: url(../img/drum/drum1r.png);
+height:101px ;
+width:102px ;
+margin-left: 60px;
+margin-top: 3px;
+}
+.drum14 {
+background-image: url(../img/drum/drum1r.png);
+height:101px;
+width:102px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum15{
+background-image: url(../img/drum/drum1r.png);
+height:101px;
+width:102px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum16{
+background-image: url(../img/drum/drum1r.png);
+height:101px;
+width:102px;
+margin-left: 374px;
+margin-top: -101px;	
+}
+.drum13:hover {
+background-image: url(../img/drum/drum1rOn.png);
+height:102px ;
+width:103px ;
+margin-left: 60px;
+margin-top: 3px;
+}
+.drum14:hover {
+background-image: url(../img/drum/drum1rOn.png);
+height:102px;
+width:103px;
+margin-left: 165px;
+margin-top: -101px;
+}
+.drum15:hover {
+background-image: url(../img/drum/drum1rOn.png);
+height:102px;
+width:103px;
+margin-left: 269px;
+margin-top: -101px;	
+}
+.drum16:hover {
+background-image: url(../img/drum/drum1rOn.png);
+height:102px;
+width:103px;
+margin-left: 374px;
+margin-top: -101px;	
+}
